@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-Thank's for watching my GitHub-Account!
+Thanks for watching my GitHub-Account!
 
 ![Visitor Count](https://profile-counter.glitch.me/{mk-neuko}/count.svg)
 </div>
