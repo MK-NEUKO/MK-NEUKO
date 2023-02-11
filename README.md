@@ -1,6 +1,6 @@
 <div align="center">
 
-![Milkyway](/Images/milkyway.jpg)  
+![Milkyway](milkyway.jpg)  
 <br>
 # Michael Koch / MK-NEUKO
 <div>
