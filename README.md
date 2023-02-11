@@ -2,7 +2,7 @@
 
 ![Milkyway](/Images/milkyway.jpg)  
 <br>
-# Michael Koch - MK-NEUKO
+# Michael Koch / MK-NEUKO
 <div>
 
 - 👋 Hi, I’m @MK-NEUKO
