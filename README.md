@@ -1,3 +1,10 @@
+<div align="center">
+
+![Milkyway](/Images/milkyway.jpg)  
+<br>
+# Michael Koch - MK-NEUKO
+<div>
+
 - 👋 Hi, I’m @MK-NEUKO
 - 👀 I’m interested in C#, .net
 
@@ -6,7 +13,7 @@
 <br>
 <div align="center">
 
-Thanks for watching my GitHub-Account!
+Thanks for visiting my GitHub-Account!
 
 ![Visitor Count](https://profile-counter.glitch.me/{mk-neuko}/count.svg)
 </div>
