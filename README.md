@@ -1,17 +1,21 @@
 <div align="center">
 
 ![Milkyway](/milkyway.jpg)  
+
 <br>
+
 # Michael Koch / MK-NEUKO
-<div>
-
-- 👋 Hi, I’m @MK-NEUKO
-- 👀 I’m interested in C#, .net
-
-
 
 <br>
-<div align="center">
+
+|   | developer world | real world |
+|---:|:-:|:-:|
+| favorite Language: | C#  | mathe  |
+| favorite Framework: | .net  | physics  |
+
+<div>
+<br>
+<br>
 
 Thanks for visiting my GitHub-Account!
 
