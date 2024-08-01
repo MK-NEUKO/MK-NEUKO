@@ -8,10 +8,9 @@
 
 <br>
 
-|   | developer world | real world |
-|---:|:-:|:-:|
-| favorite Language: | C#  | mathe  |
-| favorite Framework: | .net  | physics  |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <div>
 <br>
