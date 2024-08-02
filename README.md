@@ -3,7 +3,7 @@
   Hi there! 
   <span>:globe_with_meridians:</span> 
  </h3>
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lhZ2F1Y2M0a3lzcXc1ZzY0N3RvdmxybmhyaXd4dzN6Yml1bzg1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs1HLJYCcNgUP1Zd5Z/giphy.gif"
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJuMGhiamszZTN1MjZsdjB5MHY1a2J2YWx6ZDV6Mng3dmJyeDNjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif"
   width="300px">
 </div>
 
@@ -36,5 +36,5 @@ I am a Full Stack Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&base=1000">
+ <img src="https://komarev.com/ghpvc/?username=MK-NEUKO&base=482">
 </div>
