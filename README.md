@@ -36,6 +36,8 @@ I am a Full Stack Developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MK-NEUKO&theme=chartreuse-dark&border_radius=4.6)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MK-NEUKO&theme=chartreuse-dark&border_radius=4.6)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
