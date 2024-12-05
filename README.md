@@ -34,7 +34,7 @@ I am a Full Stack Developer
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MK-NEUKO)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MK-NEUKO&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
