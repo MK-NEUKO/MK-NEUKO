@@ -16,27 +16,41 @@ I am a Full Stack Developer
 - If you need help with your project, you are missing expertise or a worker, contact me:
 - :email: m.koch@neuko-devment.com
 - 🌍 [NeuKo know-how ApS](https://neuko-know-how.com)
+- 
 ---
 ### :toolbox: Languages and Tools
 <div id="skills">
-  <img src="images/csharp.svg" width="50px">
+  <img src="images/c-sharp.svg" width="50px">
   <img src="images/javascript.svg" width="50px">
+  <img src="images/typescript.svg" width="50px">
   <img src="images/html.svg" width="50px">
-  <img src="images/css3.svg" width="50px">
-  <img src="images/dotnet.svg" width="50px">
+  <img src="images/css.svg" width="50px">
+  <img src="images/xaml.svg" width="50px">
+  <img src="images/yaml.svg" width="50px">
+  <hr>
+  <img src="images/dotnet-core.svg" width="50px">
+  <img src="images/asp-dotnet-core.svg" width="50px">
+  <img src="images/angular.svg" width="50px">
   <img src="images/blazor.svg" width="50px">
-  <img src="images/bootstrap.svg" width="50px">
-  <img src="images/visualstudio.svg" width="50px">
-  <img src="images/vscode.svg" width="50px">
-  <img src="images/jetbrains.svg" width="50px">
+  <img src="images/wpf.svg" width="50px">
+  <hr>
+  <img src="images/visual-studio.svg" width="50px">
+  <img src="images/vs-code.svg" width="50px">
+  <img src="images/git.svg" width="50px">
+  <img src="images/resharper.svg" width="50px">
   <img src="images/docker.svg" width="50px">
+  <img src="images/k8s.svg" width="50px">
+  <img src="images/azure.svg" width="50px">
+  <img src="images/azure-devops.svg" width="50px">
 </div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MK-NEUKO&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-NEUKO&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MK-NEUKO&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=MK-NEUKO&base=482">

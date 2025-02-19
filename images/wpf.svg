@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67.733mm" height="67.733mm" version="1.1" viewBox="0 0 67.733 67.733" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient38" x1="99.145" x2="159.52" y1="241.33" y2="241.33" gradientTransform="translate(23.067 -59.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00172a" offset="0"/>
+   <stop stop-color="#800099" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-118.53 -148.17)">
+  <rect x="118.53" y="148.17" width="67.733" height="67.733" rx="15.875" fill="#512bd4" stroke-width=".26458"/>
+  <path d="m149.24 169.63-8.9793 24.8h-5.1098l-0.79375-16.439-5.9903 16.439h-5.3082l-0.84336-24.8h4.9733l0.0372 17.072 6.2012-17.072h4.7501l0.55811 17.072 5.6555-17.072zm16.428 6.8622q0 4.4304-2.7409 7.1453-2.7285 2.7149-7.6398 2.7149h-1.8107l-1.3891 8.078h-4.7873l4.2664-24.8h6.6353q1.8107 0 3.1502 0.33312 1.3519 0.3331 2.3316 1.1492 0.96739 0.81613 1.4759 2.1319 0.5085 1.2991 0.5085 3.2479zm-5.085 0.61626q0-1.449-0.78135-2.1486t-2.3192-0.69954h-1.9224l-1.2774 7.4285h1.7115q2.1704 0 3.3734-1.1826 1.2154-1.1992 1.2154-3.3978zm22.009-7.4784-0.83096 4.7969h-8.4832l-0.79375 4.6136h7.8631l-0.81856 4.7969h-7.8631l-1.8232 10.593h-4.7625l4.2664-24.8z" fill="url(#linearGradient38)" fill-rule="evenodd" stroke-linecap="square" stroke-width=".34766" style="paint-order:stroke markers fill;white-space:pre" aria-label="WPF"/>
+ </g>
+</svg>
