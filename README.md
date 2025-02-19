@@ -10,12 +10,12 @@
 ---
 ### :man_technologist:About Me:
 I am a Full Stack Developer
-- I am german :de: and I live in denmark :denmark:.
-- I have been interested in software development since I was young. I love developing solutions to solve problems and tasks. I like to venture out of my comfort zone to explore new concepts and new techniques.
-- I work on the entire software development process - from analysis and planning to coding, deployment and customer support.
-- If you need help with your project, you are missing expertise or a worker, contact me:
-- :email: m.koch@neuko-devment.com
-- 🌍 [NeuKo know-how ApS](https://neuko-know-how.com)
+:small_blue_diamond: I am german :de: and I live in denmark :denmark:.
+:small_blue_diamond: I have been interested in software development since I was young. I love developing solutions to solve problems and tasks. I like to venture out of my comfort zone to explore new concepts and new techniques.
+:small_blue_diamond: I work on the entire software development process - from analysis and planning to coding, deployment and customer support.
+:small_blue_diamond: If you need help with your project, you are missing expertise or a worker, contact me:
+:small_blue_diamond: :email: m.koch@neuko-devment.com
+:small_blue_diamond: 🌍 [NeuKo know-how ApS](https://neuko-know-how.com)
 - 
 ---
 ### :toolbox: Languages and Tools
