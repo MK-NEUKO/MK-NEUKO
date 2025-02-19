@@ -27,13 +27,13 @@ I am a Full Stack Developer
   <img src="images/css.svg" width="50px">
   <img src="images/xaml.svg" width="50px">
   <img src="images/yaml.svg" width="50px">
-  <hr>
+  <br>
   <img src="images/dotnet-core.svg" width="50px">
   <img src="images/asp-dotnet-core.svg" width="50px">
   <img src="images/angular.svg" width="50px">
   <img src="images/blazor.svg" width="50px">
   <img src="images/wpf.svg" width="50px">
-  <hr>
+  <br>
   <img src="images/visual-studio.svg" width="50px">
   <img src="images/vs-code.svg" width="50px">
   <img src="images/git.svg" width="50px">
@@ -46,9 +46,11 @@ I am a Full Stack Developer
 
 ---
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK-NEUKO&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MK-NEUKO&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-NEUKO&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
