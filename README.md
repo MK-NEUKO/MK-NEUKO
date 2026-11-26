@@ -43,7 +43,7 @@ Self-hosted on our own servers in the EU: Nextcloud, OpenProject, Grafana and Pr
 
 ### 📫 Get in touch
 
-Have a project in mind? Book a free consultation (45 minutes):
+Happy to hear from you – whether it's a project, an idea for working together, or a question about something you found here.
 
 - 🌍 [neuko-know-how.com](https://neuko-know-how.com)
 - ✉️ m.koch@neuko-know-how.com
